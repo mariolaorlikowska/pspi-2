@@ -4,7 +4,7 @@ Projekty do wykonania:
 
 1. Moje konto na Github.
 1. Wprawki z notacji Markdown.
-1. Moja strona wdrożona HTML.
+1. Moja strona HTML.
 
 
 ## Nasze projekty
