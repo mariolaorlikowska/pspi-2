@@ -31,7 +31,7 @@ Projekty do wykonania:
 Proszę uzupełnić:
 
 1. [Jakub Rajewicz](http://szewa5.github.io/moje-projekt/). [Notatki z Markdown](https://github.com/szewa5/notatki).
-1. [Daniel Uss](https://github.com/danieluss476).
+1. [Daniel Uss](https://github.com/danieluss476). [Niezeszyt](https://github.com/danieluss476/niezeszyt), [Matematyka](http://danieluss476.github.io/matematyka/).
 
 
 <!--
