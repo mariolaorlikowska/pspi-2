@@ -29,10 +29,6 @@ Projekty do wykonania:
 1. [Rafał Wróblewski](https://github.com/ElektroITmatyk). [Moje notatki z Java Spring](https://github.com/ElektroITmatyk/ti-2016/tree/master), [Fanpage Deus Ex](https://elektroitmatyk.github.io/ti-2016/).
 1. [Andrzej Zieliński](https://github.com/azet2). [Repozytorium](https://github.com/azet2/repozytorium). [Ciekawe Apki](http://azet2.github.io/Apki/).
 
-Proszę uzupełnić:
-
-1. [Jakub Rajewicz](http://szewa5.github.io/moje-projekt/). [Notatki z Markdown](https://github.com/szewa5/notatki).
-
 
 <!--
 Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
