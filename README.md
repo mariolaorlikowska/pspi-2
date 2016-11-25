@@ -46,12 +46,16 @@ Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
 
 2\. HTML & CSS
 
+- [Welcome to Web Platform Docs](http://docs.webplatform.org/wiki/Main_Page) –
+  tutoriale, samouczki, …
 - [HTML 5 Outliner](https://gsnedders.html5.org/outliner/);
   [Chrome extension](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
 - [Thinkful HTML](https://github.com/mjhea0/thinkful-html) –
   wprowadzenie do HTML i CSS
   - [Web Design/HTML Challenges](http://en.wikiversity.org/wiki/Web_Design/HTML_Challenges)
 - [Learn CSS Layout](http://learnlayout.com/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
+- [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
 - [HEAD](https://github.com/joshbuchea/HEAD) –
   a list of everything that goes in the <head> of your document
 
@@ -72,6 +76,7 @@ Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
 
 4\. CSS3
 
+- [A free visual guide to CSS](http://cssreference.io)
 - [Bootstrap](http://getbootstrap.com)
   - [Less](http://lesscss.org) (LessCSS czy Less.js)
 - [Foundation](http://foundation.zurb.com)
