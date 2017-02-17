@@ -30,7 +30,9 @@ Linki do projektów na zaliczenie wpisujemy w pliku [projects.md](projects.md).
   * [Atom](https://atom.io) – a hackable text editor for the 21st Century.
     - [Atom Flight Manual](https://atom.io/docs/latest/) – the latest version
     - [Keyboard shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
-  * [Gulp](http://gulpjs.com) – automate and enhance your workflow.
+  * [Gulp](http://gulpjs.com) – a toolkit for automating painful or
+    time-consuming tasks in your development workflow, so you can stop
+    messing around and build something.
     - Callum Macrae, [Building With Gulp](https://www.smashingmagazine.com/2014/06/building-with-gulp/)
     - Mark Goodyear, [Getting started with Gulp](https://markgoodyear.com/2014/01/getting-started-with-gulp/)
   * [Slack](https://slack.com) – where work happens.
