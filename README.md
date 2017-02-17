@@ -21,19 +21,19 @@ Linki do projektów na zaliczenie wpisujemy w pliku [projects.md](projects.md).
   * [GitHub Guides](https://guides.github.com/)
   * [GitHub Desktop](http://windows.github.com/)
 - Tworzymy pierwsze repozytorium na GitHub:
-  * tworzymy nowy katalog o nazwie _docs_ i dodajemy przykładowy plik _abc.html_
+  * Tworzymy nowy katalog o nazwie _docs_ i dodajemy przykładowy plik _abc.html_
   * [GitHub pages](https://pages.github.com)
 - [Got 15 minutes and want to learn Git?](http://try.github.io/levels/1/challenges/1).
   * Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
   * [Docs](https://git-scm.com/doc)
 - Konfiguracja środowiska do pracy z HTML5+CSS3+JavaScript.
-  * [Atom](https://atom.io) – a hackable text editor for the 21st Century:
+  * [Atom](https://atom.io) – a hackable text editor for the 21st Century.
     - [Atom Flight Manual](https://atom.io/docs/latest/) – the latest version
     - [keyboard shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
-  * [Gulp](http://gulpjs.com) – automate and enhance your workflow
+  * [Gulp](http://gulpjs.com) – automate and enhance your workflow.
     - Callum Macrae, [Building With Gulp](https://www.smashingmagazine.com/2014/06/building-with-gulp/)
     - Mark Goodyear, [Getting started with Gulp](https://markgoodyear.com/2014/01/getting-started-with-gulp/)
-  * [Slack](https://slack.com) – where work happens
+  * [Slack](https://slack.com) – where work happens.
     - [Getting Started](https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides)
 
 2\. HTML & CSS.
