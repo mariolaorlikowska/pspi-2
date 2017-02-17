@@ -23,7 +23,7 @@ Linki do projektów na zaliczenie wpisujemy w pliku [projects.md](projects.md).
 - Tworzymy pierwsze repozytorium na GitHub.
   * Tworzymy nowy katalog o nazwie _docs_ i dodajemy przykładowy plik _abc.html_
   * [GitHub pages](https://pages.github.com)
-- [Got 15 minutes and want to learn Git?](http://try.github.io/levels/1/challenges/1).
+- [Got 15 minutes and want to learn Git?](http://try.github.io/levels/1/challenges/1)
   * Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
   * [Docs](https://git-scm.com/doc)
 - Konfiguracja środowiska do pracy z HTML5+CSS3+JavaScript.
