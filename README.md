@@ -20,7 +20,7 @@ Linki do projektów na zaliczenie wpisujemy w pliku [projects.md](projects.md).
     klucz publiczny, klucz prywatny; generowanie kluczy
   * [GitHub Guides](https://guides.github.com/)
   * [GitHub Desktop](http://windows.github.com/)
-- Tworzymy pierwsze repozytorium na GitHub:
+- Tworzymy pierwsze repozytorium na GitHub.
   * Tworzymy nowy katalog o nazwie _docs_ i dodajemy przykładowy plik _abc.html_
   * [GitHub pages](https://pages.github.com)
 - [Got 15 minutes and want to learn Git?](http://try.github.io/levels/1/challenges/1).
