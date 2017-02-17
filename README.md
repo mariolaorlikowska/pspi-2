@@ -15,7 +15,7 @@ Linki do projektów na zaliczenie wpisujemy w pliku [projects.md](projects.md).
 1\. Git.
 
 - Zakładamy konto na serwerze GitHub,
-  [Account Setup and Configuration](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration):
+  [Account Setup and Configuration](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration).
   * [Secure Shell](http://en.wikipedia.org/wiki/Secure_Shell) –
     klucz publiczny, klucz prywatny; generowanie kluczy
   * [GitHub Guides](https://guides.github.com/)
@@ -23,10 +23,10 @@ Linki do projektów na zaliczenie wpisujemy w pliku [projects.md](projects.md).
 - Tworzymy pierwsze repozytorium na GitHub:
   * tworzymy nowy katalog o nazwie _docs_ i dodajemy przykładowy plik _abc.html_
   * [GitHub pages](https://pages.github.com)
-- [Got 15 minutes and want to learn Git?](http://try.github.io/levels/1/challenges/1):
+- [Got 15 minutes and want to learn Git?](http://try.github.io/levels/1/challenges/1).
   * Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
-  * [docs](https://git-scm.com/doc)
-- Konfiguracja środowiska do pracy z HTML+CSS+JavaScript:
+  * [Docs](https://git-scm.com/doc)
+- Konfiguracja środowiska do pracy z HTML5+CSS3+JavaScript.
   * [Atom](https://atom.io) – a hackable text editor for the 21st Century:
     - [Atom Flight Manual](https://atom.io/docs/latest/) – the latest version
     - [keyboard shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
