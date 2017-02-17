@@ -26,9 +26,15 @@ Linki do projektów na zaliczenie wpisujemy w pliku [projects.md](projects.md).
 - [Got 15 minutes and want to learn Git?](http://try.github.io/levels/1/challenges/1):
   * Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
   * [docs](https://git-scm.com/doc)
-- [Atom](https://atom.io) – a hackable text editor for the 21st Century:
-  * [Atom Flight Manual](https://atom.io/docs/latest/) – the latest version
-  * [keyboard shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
+- Konfiguracja środowiska do pracy z HTML+CSS+JavaScript:
+  * [Atom](https://atom.io) – a hackable text editor for the 21st Century:
+    - [Atom Flight Manual](https://atom.io/docs/latest/) – the latest version
+    - [keyboard shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
+  * [Gulp](http://gulpjs.com) – automate and enhance your workflow
+    - Callum Macrae, [Building With Gulp](https://www.smashingmagazine.com/2014/06/building-with-gulp/)
+    - Mark Goodyear, [Getting started with Gulp](https://markgoodyear.com/2014/01/getting-started-with-gulp/)
+  * [Slack](https://slack.com) – where work happens
+    - [Getting Started](https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides)
 
 2\. HTML & CSS.
 
