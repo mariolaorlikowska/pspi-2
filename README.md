@@ -5,7 +5,9 @@ Dwa projekty do wykonania na zaliczenie.
 1. Moje konto na [Github](https://github.com) zawierające plik README o zawartości
   wpisanej w notacji [Markdown](https://guides.github.com/features/mastering-markdown/)
   lub [Asciidoctor](http://asciidoctor.org/docs/asciidoc-writers-guide/).
-1. Moje strony w chmurze [GitHub](https://pages.github.com) albo [Firebase](https://firebase.google.com).
+1. Moje strony w chmurze [GitHub](https://pages.github.com)
+  albo
+  [Firebase](https://firebase.google.com) ([Get Started with Hosting](https://firebase.google.com/docs/hosting/quickstart)).
 
 Linki do projektów na zaliczenie wpisujemy w pliku [projects.md](projects.md).
 
@@ -73,6 +75,8 @@ Linki do projektów na zaliczenie wpisujemy w pliku [projects.md](projects.md).
 - [A free visual guide to CSS](http://cssreference.io)
 - [Bootstrap](http://getbootstrap.com)
   - [Less](http://lesscss.org) (LessCSS czy Less.js)
+  - [SASS](https://scotch.io/tutorials/getting-started-with-sass) –
+    with interactive examples
 - [Foundation](http://foundation.zurb.com)
 - [Milligram](http://milligram.github.io/) – a minimalist CSS framework
 - [Cascading Style Sheets](http://www.w3.org/Style/CSS/)
