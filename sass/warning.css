@@ -1,0 +1,19 @@
+h2, h3 {
+  color: blue;
+  font-style: italic; }
+
+.WARNING {
+  font-weight: bold;
+  font-size: 150%;
+  margin: 10px 100px 20px 100px;
+  /* top right bottom left */
+  background-color: yellow;
+  border: solid red 8px;
+  padding: 10px 50px 60px 50px; }
+
+.WARNING h3 {
+  text-align: center; }
+
+#P23 {
+  text-align: center;
+  text-transform: uppercase; }

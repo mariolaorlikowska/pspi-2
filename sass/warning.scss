@@ -1,0 +1,35 @@
+// Wyświetl tekst nagłówków na niebiesko, fontem pochylonym.
+
+$font-headers-color: #00f;
+
+h2, h3 {
+  color: $font-headers-color;
+  font-style: italic;
+}
+
+// Każdy element klasy "WARNING" wyświetl dużym pogrubionym
+// fontem, z szerokimi marginesami oraz na żółtym tle z szeroką
+// czerwoną ramką.
+
+.WARNING {
+  font-weight: bold;
+  font-size: 150%;
+  margin: 10px 100px 20px 100px; /* top right bottom left */
+  background-color: yellow;
+  border: solid red 8px;
+  padding: 10px 50px 60px 50px;
+
+  // Tekst nagłówków h3, wewnątrz klasy WARNING ma być
+  // wyśrodkowany, oprócz tego, że jest niebieski i pochylony.
+  h3 {
+    text-align: center;
+  }
+}
+
+// Pojedynczy element z atrybutem id="P23"
+// wyświetl wielkimi literami i wyśrodkuj go.
+
+#P23 {
+  text-align: center;
+  text-transform: uppercase;
+}
