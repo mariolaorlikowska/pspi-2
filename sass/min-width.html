@@ -7,15 +7,13 @@
   <link rel="stylesheet" href="min-width.css">
   <style>
     /* body { width: 800px; margin: 2em auto; } */
-    figure {
-      width: min-content;
-      margin: auto;
-    }
   </style>
 </head>
 
 <body>
-  <pre>$ sass --watch min-width.scss:min-width.css</pre>
+  <pre>$ sass --sourcemap=none --watch min-width.scss min-width.scss:min-width.css</pre>
+
+  <h3>Czerwone Wierchy</h3>
 
   <p>Czerwone Wierchy – masyw górski znajdujący się w ciągu głównego grzbietu
     Tatr Zachodnich. Biegnie nim granica polsko-słowacka.
@@ -23,7 +21,7 @@
   <figure>
   	<img src="images/czw.jpg" />
   	<figcaption>
-  		Widok na Kopę Kondracką, Małołączniak, Krzesanicę i Ciemniak w masywie
+  		Widok na Kopę Kondracką, Krzesanicę i Ciemniak w masywie
       Czerwonych Wierchów.
   	</figcaption>
   </figure>
