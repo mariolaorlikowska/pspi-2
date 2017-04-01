@@ -1,18 +1,9 @@
-/**
- * Intrinsic sizing
- */
-/*
 figure {
-	max-width: 300px;
-	max-width: min-content;
-	margin: auto;
-}
+  margin: auto;
+  max-width: min-content; }
+  figure > img {
+    max-width: inherit; }
 
-figure > img { max-width: inherit }
-*/
-/* Basic styling */
 figure {
-  padding: 10px;
-  border: 1px solid silver; }
-
-/*# sourceMappingURL=min-width.css.map */
+  border: 1px solid #c0c0c0;
+  padding: 10px; }
