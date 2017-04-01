@@ -1,0 +1,37 @@
+<!doctype html public "♥♥♥">
+<html lang=pl>
+<head>
+  <meta charset=utf-8>
+  <title>CSS3 – Intrinsic sizing</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="min-width.css">
+  <style>
+    /* body { width: 800px; margin: 2em auto; } */
+    figure {
+      width: min-content;
+      margin: auto;
+    }
+  </style>
+</head>
+
+<body>
+  <pre>$ sass --watch min-width.scss:min-width.css</pre>
+
+  <p>Let’s assume we have some text here.</p>
+  <figure>
+  	<img src="images/sample.jpg" />
+  	<figcaption>
+  		The great Sir Adam Catlace was named after Countess Ada Lovelace,
+      the first programmer ever.
+  	</figcaption>
+  </figure>
+  <p>We also have some more text here.</p>
+
+  <h4>Source</h4>
+
+  <p><a href="http://dabblet.com/gist/82eb1575806f6eff9c37">Lea Verou, <i>CSS Secrets</i></a></p>
+  <p><a href="http://thenewcode.com/771/Web-Developer-Reading-List-The-Box-Model">Web Developer Reading List: The Box Model</a></p>
+  <p><a href="http://thenewcode.com/919/A-Complete-Reading-List-For-CSS">A Complete Reading List For CSS</a> ok. 60 godz.</p>
+
+</body>
+</html>
