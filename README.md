@@ -72,6 +72,8 @@ Linki do projektów na zaliczenie wpisujemy w pliku [projects.md](projects.md).
 
 4\. CSS3.
 
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+- [Grid Garden](http://cssgridgarden.com/)
 - [A free visual guide to CSS](http://cssreference.io)
 - [Bootstrap](http://getbootstrap.com)
   - [Less](http://lesscss.org) (LessCSS czy Less.js)
